@@ -11,7 +11,7 @@
     <content src="index.html" />
     <access origin="*" />
     
-<gap:plugin name="com-admob-plugin" version="5.2.0" source="npm"/>
+<gap:plugin name="com.google.cordova.admob" version="5.2.0" source="npm"/>
 
     
     
